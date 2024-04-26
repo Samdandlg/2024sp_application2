@@ -1,3 +1,3 @@
-msg = "Hello World!"
-print(msg)
+message= "Hello World!"
+print(message)
 
